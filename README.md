@@ -1,7 +1,6 @@
-
 # ASCII ART
 
-Python을 활용한 움직이는 ASCII 아트 프로젝트입니다.
+Python의 Pygame과 NumPy를 학습하면서 3D 그래픽의 기초 원리를 직접 구현하는 개인 학습 프로젝트입니다.
 
 ## 프로젝트 목표
 
