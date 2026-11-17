@@ -20,9 +20,9 @@ Python의 Pygame과 NumPy를 학습하면서 3D 그래픽의 기초 원리를 �
 
 - [x] Pygame 기본 화면 생성
 - [x] ASCII 눈 내리는 애니메이션
-- [ ] NumPy를 활용한 3D 좌표 계산
-- [ ] 3D ASCII 정육면체 회전
-- [ ] ASCII 크리스마스트리 제작
+- [x] NumPy를 활용한 3D 좌표 계산
+- [x] 3D ASCII 정육면체 회전
+- [x] ASCII 크리스마스트리 제작
 - [ ] 사용자 디자인 기반 ASCII 아트 제작
 
 ## 실행 방법
